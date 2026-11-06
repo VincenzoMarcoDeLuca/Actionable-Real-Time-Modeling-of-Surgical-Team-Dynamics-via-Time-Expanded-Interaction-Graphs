@@ -1,0 +1,111 @@
+{
+  "003_TKA": {
+    "SPEAKER_00": "anest",
+    "SPEAKER_01": "circulator",
+    "SPEAKER_02": "assistant_surgeon",
+    "SPEAKER_03": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_05": "nurse"
+  },
+  "007_TKA": {
+    "SPEAKER_01": "circulator",
+    "SPEAKER_06": "assistant_surgeon",
+    "SPEAKER_07": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_05": "nurse"
+  },
+  "011_TKA": {
+    "SPEAKER_02": "anest",
+    "SPEAKER_01": "circulator",
+    "SPEAKER_06": "assistant_surgeon",
+    "SPEAKER_07": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_05": "nurse"
+  },
+  "012_1_PKA": {
+    "SPEAKER_01": "circulator",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "012_2_PKA": {
+    "SPEAKER_01": "circulator",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "013_PKA": {
+    "SPEAKER_01": "circulator",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "014_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "015_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "016_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "017_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "019_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "020_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "022_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "023-032_PKA": {
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "033_PKA": {
+    "SPEAKER_01": "circulator",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "035_PKA": {
+    "SPEAKER_00": "anest",
+    "SPEAKER_01": "circulator",
+    "SPEAKER_02": "assistant_surgeon",
+    "SPEAKER_03": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse",
+    "SPEAKER_09": "unrelated_person"
+  },
+  "036_PKA": {
+    "SPEAKER_10": "anest",
+    "SPEAKER_00": "circulator",
+    "SPEAKER_02": "assistant_surgeon",
+    "SPEAKER_03": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  },
+  "037_TKA": {
+    "SPEAKER_01": "anest",
+    "SPEAKER_00": "circulator",
+    "SPEAKER_10": "assistant_surgeon",
+    "SPEAKER_03": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse",
+    "SPEAKER_02": "student"
+  },
+  "038_TKA": {
+    "SPEAKER_10": "anest",
+    "SPEAKER_00": "circulator",
+    "SPEAKER_02": "assistant_surgeon",
+    "SPEAKER_03": "head_surgeon",
+    "SPEAKER_04": "mps",
+    "SPEAKER_08": "nurse"
+  }
+}
